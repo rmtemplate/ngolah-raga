@@ -65,6 +65,9 @@ export default {
 </script>
 
 <style scoped>
+.carousel.slide {
+  text-align: left !important;
+}
 .carousel .carousel-item img {
   border-radius: 10px;
   position: relative;

@@ -91,6 +91,7 @@ export default {
 };
 </script>
 
+
 <style scoped>
 ._card img {
   padding: 20px;
